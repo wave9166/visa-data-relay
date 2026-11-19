@@ -1,7 +1,17 @@
 {
   "schema": "pages-1",
-  "checked_at": "2026-11-18T13:31:21Z",
+  "checked_at": "2026-11-19T05:07:05Z",
   "items": [
+    {
+      "title": "Safety Standard for Button Cell or Coin Batteries and Consumer Products Containing Such Batteries",
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23435/safety-standard-for-button-cell-or-coin-batteries-and-consumer-products-containing-such-batteries",
+      "category": "biz",
+      "source_type": "official",
+      "published": "2026-11-18",
+      "page": "CPSC",
+      "summary_zh": "CPSC直接最终规则更新纽扣电池强制安全标准，改引ANSI/UL 4200A-2026，2027年2月13日生效。",
+      "evidence": "直接最终规则将强制标准改引ANSI/UL 4200A-2026（取代2023版）；2027年2月13日生效，2026年12月18日前收到重大反对意见则撤回。"
+    },
     {
       "title": "CSMS #70460453 - Existing Entry Requirements in the Rail Environment",
       "url": "https://content.govdelivery.com/bulletins/gd/USDHSCBP-4332425?wgt_ref=USDHSCBP_WIDGET_2",
@@ -121,7 +131,17 @@
       "page": "TikTok Shop Seller University",
       "summary_zh": "TikTok Shop黑五退货窗口延长：11月11日16:00 PT至12月31日23:59 PT售出的合规商品可退至2027年2月10日，自动适用。",
       "evidence": "适用2026年11月11日16:00 PT至12月31日23:59 PT售出商品，可退至2027年2月10日；API售后退货二维码须有效至2027年2月10日23:59:59 PT；拍卖订单不适用。"
+    },
+    {
+      "title": "[读取失败] 亚马逊卖家中心公告页：需登录，公开页读不到条目",
+      "url": "https://sellercentral.amazon.com/seller-news",
+      "category": "biz",
+      "source_type": "official",
+      "published": null,
+      "page": "Amazon Seller Central",
+      "summary_zh": "亚马逊卖家中心公告页需登录后查看，本轮无法读取公开条目，无法确认窗内有无新公告。",
+      "evidence": null
     }
   ],
-  "notes": "Amazon Seller Central News公开页窗内无新条目（最新为11月5日2027年FBA费用公告，出窗）；FBA预计到货时间（Manage Shipments页）为11月邮件通知，无公开官方页与发布日期，未收录。USCIS Newsroom与政策手册更新页实读均被Akamai全站拦截（Access Denied），无法核对11月11日至18日有无新内容，非“零条”；搜索快照显示Newsroom最新为11月6日、政策手册最新为10月27日PA-2026-16（L-1费用），均出窗。国务院12月排期表截至11月18日21:26仍未发布，官网仍为11月表、Upcoming显示Coming Soon。CBP CSMS官方列表页实读：窗内共9条，剔除1条2027财年贸易执法网络研讨会日程（非关税/申报/清关/保证金内容）；11月11、14、15、18日无新消息。TikTok Shop美国卖家政策中心公告页实读：11月16日Seller栏为空；11月12日3条已收录，页面正文另标示“Applies to: Thailand local, Vietnam local”，适用范围以页面原文为准。BFCM指南原文10月19日发布，退货窗口章节11月12日更新（更新追踪器日期），以2026-11-12收录。TikTok 11月12日运费执法为11月6日公布、11月12日生效，出窗；FBT出库运费$0.39涨至$0.68/磅（11月10日生效）仍无官方费率卡链接与更新日期，未收录。更新追踪器另列11月11日至18日多项美国卖家大学页面更新（轮播准入、自动发布迁移、USDS保险、智能家居机器人等），各单页官方链接本轮未逐一核实，未收录。联邦公报：窗内USTR仅11月18日USMCA双边专家组名册申请（2026-23412），与关税/申报/清关/保证金无关，未收录；商务部反倾销/反补贴裁定不在任务列明来源内，未收录。上轮11月10日3条USTR联邦公报条目已出窗。"
+  "notes": "亚马逊卖家中心公告页（sellercentral.amazon.com/seller-news）实读返回登录页，需登录后查看，公开页读不到条目，无法确认窗内有无新公告，已按新规则在items中写一条[读取失败]；第三方摘要显示最新公告仍为11月5日2027年FBA费用更新，出窗。 TikTok Shop美国卖家政策中心公告页实读：11月16日Seller栏为空，11月12日3条已收录；Creator栏同日“AI生成视频标注产品尺寸”提醒适用泰国、越南卖家，未收录；BFCM指南退货窗口章节11月12日更新，已收录。 CBP CSMS官方govDelivery RSS实读：最新一条为11月17日#70460453，11月18、19日无新消息；11月13日#70423126为2027财年贸易执法网络研讨会日程，非关税/申报/清关/保证金内容，未收录。 USCIS新闻中心与政策手册更新页实读（curl）：新闻中心最新为11月6日，政策手册最新为10月27日PA-2026-16（L-1费用），窗内无新内容；国务院12月排期表截至11月19日13时仍未发布（官网索引未列12月表；论坛流传的所谓12月表与11月表日期完全一致，无官方佐证，不收录）。 USTR新闻稿页实读：窗内3条（11月18日Greer在RBA年会讲话、11月16日WSJ读者来信、11月13日墨西哥劳工权利审查）均不属于301关税、301排除延期或中美关税安排，未收录。 联邦公报API实读：窗内USTR、商务部BIS、海关CBP仅1份文件（11月18日USMCA双边专家组名册申请2026-23412），与301/232/税则/排除程序无关，未收录。 CPSC新闻中心实读：窗内无非召回类公告，11月12日一批召回按规则排除；11月5日地上泳池梯标准为自愿标准且出窗，未收录；纽扣电池强制标准修订以联邦公报原文（2026-23435）核实收录。"
 }
