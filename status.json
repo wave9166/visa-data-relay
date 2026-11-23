@@ -1,1 +1,6 @@
-{"last_attempt_at":"2026-11-16T13:26:49Z","pt":{"error":"egov.uscis.gov 返回 Cloudflare 人机验证页 (Attention Required, Ray ID a5b6d3586b3b23fc)，未读到 I-140 审理时间数据；pt_relay.json 保持上次内容不动","ok":false},"schema":"relay-status-1","visa":{"error":"","ok":true}}
+{
+  "schema": "relay-status-1",
+  "last_attempt_at": "2026-11-23T13:22:34Z",
+  "visa": {"ok": true, "error": ""},
+  "pt": {"ok": false, "error": "egov.uscis.gov 被 Cloudflare 拦截（Attention Required，Ray ID a5f07ada5bfbeb16），未读到数据；pt_relay.json 保持上一次成功的内容不动"}
+}
