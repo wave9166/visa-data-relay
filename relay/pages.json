@@ -1,47 +1,57 @@
 {
   "schema": "pages-1",
-  "checked_at": "2026-11-22T13:30:44Z",
+  "checked_at": "2026-11-25T13:33:35Z",
   "items": [
     {
-      "title": "CSMS #70460453 - Existing Entry Requirements in the Rail Environment",
-      "url": "https://content.govdelivery.com/bulletins/gd/USDHSCBP-4332425?wgt_ref=USDHSCBP_WIDGET_2",
+      "title": "USTR Invites Public Comment on Proposed Modifications of the Section 301 Action Regarding Brazil's Unreasonable Acts, Policies, and Practices",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable",
       "category": "biz",
       "source_type": "official",
-      "published": "2026-11-17",
-      "page": "CBP CSMS",
-      "summary_zh": "CBP提醒：非国际运输工具的机车及铁路设备须申报并缴纳全部适用关税，包括232关税与反倾销/反补贴税。",
-      "evidence": "2026年4月2日第11021号公告对部分进口钢制铁路车辆征收232关税；2026年11月9日商务部对墨西哥铁路罐车发起反倾销/反补贴调查；非IIT设备须按19 CFR 141.4(b)申报缴税；19 CFR 113.66要求连续保证金。"
+      "published": "2026-11-25",
+      "page": "USTR",
+      "summary_zh": "USTR就修改巴西301措施征求意见，拟对超配额食糖加征关税、对巴西产整机加征10%关税，书面意见截至12月30日。",
+      "evidence": "拟对超配额食糖加征特定关税、对巴西产整机加征10%从价关税；听证出席申请截至2026年12月7日，书面意见截至2026年12月30日，听证会2027年1月14日。"
     },
     {
-      "title": "CSMS #70449794 - Publication of Query: Cargo Manifest / In-Bond / Entry Status Implementation Guide in Support of the Foreign IOR Enhancement",
-      "url": "https://content.govdelivery.com/bulletins/gd/USDHSCBP-432fa82?wgt_ref=USDHSCBP_WIDGET_2",
-      "category": "biz",
+      "title": "Oakdale Visa Fraud Scheme Ringleader Sentenced to 10 Years in Federal Prison; Four Co-Conspirators Also Sentenced to Five Years Each",
+      "url": "https://www.uscis.gov/newsroom/news-releases/oakdale-visa-fraud-scheme-ringleader-sentenced-to-10-years-in-federal-prison-four-co-conspirators",
+      "category": "imm",
       "source_type": "official",
-      "published": "2026-11-16",
-      "page": "CBP CSMS",
-      "summary_zh": "CBP发布外国进口商记录增强功能的查询指南：ACE CERT已于11月12日部署，ACE PROD预计2027年1月5日上线。",
-      "evidence": "外国进口商记录增强功能2026年11月12日部署至ACE CERT环境，2027年1月5日部署至ACE PROD；CATAIR草案含Entry Summary Create/Update V112与Cargo Release V41.1。"
+      "published": "2026-11-23",
+      "page": "USCIS Newsroom",
+      "summary_zh": "USCIS协助调查的奥克代尔签证欺诈案主犯被判10年监禁，四名同谋各判5年。",
+      "evidence": "主犯Chandrakant Patel被判120个月监禁，四名同谋各60个月；骗局约2020年11月至2025年7月，以虚假持械抢劫报告为签证申请人伪造受害身份；刑满后Patel将被驱逐。"
     },
     {
-      "title": "CSMS #70449396 - Deployment of Updated Protest Application User Interface (UI) on November 14, 2026",
-      "url": "https://content.govdelivery.com/bulletins/gd/USDHSCBP-432f8f4?wgt_ref=USDHSCBP_WIDGET_2",
-      "category": "biz",
-      "source_type": "official",
-      "published": "2026-11-16",
-      "page": "CBP CSMS",
-      "summary_zh": "CBP于11月14日在ACE安全数据门户上线新版Protest申请界面，仅改外观与导航，抗议处理流程与系统功能不变。",
-      "evidence": "2026年11月14日部署；仅外观与导航变化，Protest处理与系统功能不变。"
-    },
-    {
-      "title": "[读取失败] USCIS Policy Manual Updates：被 Akamai 拦截，页面打不开",
+      "title": "Addressing Program Integrity Concerns in Special Immigrant Juvenile Petitions",
       "url": "https://www.uscis.gov/policy-manual/updates",
       "category": "imm",
       "source_type": "official",
-      "published": null,
+      "published": "2026-11-20",
       "page": "USCIS Policy Manual Updates",
-      "summary_zh": "USCIS政策手册更新页被Akamai拦截，实时读取返回Access Denied，无法确认窗内有无新更新。",
-      "evidence": null
+      "summary_zh": "USCIS发布SIJ申请政策指引，要求逐案审查州法院命令事实依据与DHS同意要件，立即生效。",
+      "evidence": "政策指引PA-2026-17于2026年11月20日发布并立即生效，适用于当日待审或之后提交的I-360申请；修订政策手册第6卷J部分第1至4章；反馈期截至2026年12月21日。"
+    },
+    {
+      "title": "Special Immigrant Juvenile Adjustment of Status",
+      "url": "https://www.uscis.gov/policy-manual/updates",
+      "category": "imm",
+      "source_type": "official",
+      "published": "2026-11-20",
+      "page": "USCIS Policy Manual Updates",
+      "summary_zh": "USCIS发布SIJ身份调整政策指引，申请人除满足资格外还须证明应获有利裁量，立即生效。",
+      "evidence": "政策指引PA-2026-18于2026年11月20日发布并立即生效，适用于当日待审或之后提交的SIJ类I-485申请；此前已批准的I-360可因欺诈、虚假陈述或明显错误被撤销；反馈期截至2026年12月21日。"
+    },
+    {
+      "title": "Safety Standard for Button Cell or Coin Batteries and Consumer Products Containing Such Batteries",
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23435/safety-standard-for-button-cell-or-coin-batteries-and-consumer-products-containing-such-batteries",
+      "category": "biz",
+      "source_type": "official",
+      "published": "2026-11-18",
+      "page": "CPSC",
+      "summary_zh": "CPSC直接最终规则将纽扣电池强制安全标准由ANSI/UL 4200A-2023更新为2026版，2027年2月13日生效。",
+      "evidence": "直接最终规则（91 FR 74086），16 CFR第1263部分由ANSI/UL 4200A-2023更新为ANSI/UL 4200A-2026；2027年2月13日生效，如2026年12月18日前收到重大不利意见则撤回。"
     }
   ],
-  "notes": "窗口2026-11-15至2026-11-22。CBP CSMS 3条（11-16两条、11-17一条）；11-19两条ACE维护与开发日程通知不属于关税/申报/清关/保证金内容，未收录；11-20至11-22无新CSMS消息。Federal Register窗内无符合条件的301/232关税、HTS修订或排除程序文件；11-10的两份USTR 301通知（海事行动暂停至2027-01-10、178项产品排除延期至2027-01-09）出窗。USTR窗内3条新闻稿均不在收录范围（USMCA劳工审查、演讲、致编辑信）；CPSC窗内无符合条件的eFiling、儿童产品证书或强制标准公告（11-19假日安全提示不在范围，召回不收）。亚马逊sell.amazon.com/pricing与FBA费用说明页可读，费率与说明与11-19快照一致、无变化，不写条目。TikTok Shop政策中心11月16日Seller栏经实时读取确认为空；11月12日3条出窗；该页标注Applies to: Philippines local、Vietnam local，Updated at: 11/16/2026。USCIS Newsroom可读，最新为11月6日，窗内无新内容；国务院12月排期表截至11月20日仍未发布；政策手册更新页被Akamai拦截（实时浏览器亦被拦），无法确认11月20日PA-2026-17/PA-2026-18是否存在，已写[读取失败]；USCIS的G-1055费用表新版（11-19）与SAVE个案数据导出功能（11-19）属其他页面，不在任务所列的Newsroom/政策手册更新页范围内，未收录。"
+  "notes": "亚马逊费用页可读且无变化（Professional计划39.99美元/月，佣金表不变），FBA费用指南为常驻说明页、无新费率变化，均不写条目。TikTok Shop卖家政策中心可读，最新公告仍为11月12日（3条卖家公告，均已出窗），窗内无新公告。CBP CSMS经实时浏览器核对：窗内共3条，11月23日2027年经纪人年费缴纳日（非关税/申报/清关/保证金内容，未收录）、11月19日ACE维护与ACE开发部署日程（均不在范围，未收录）；11月24日、25日无消息。联邦公报按Section 301（58份）、Section 232（22份）、Harmonized Tariff Schedule（10份）三个关键词检索窗内文件，USTR、商务部BIS、海关CBP均无在范围内的文件；巴西301联邦公报通知为预发布版、预计11月26日刊登，不在本窗。联邦公报API的agencies参数返回{\"errors\":{\"agencies\":\"invalid value\"}}（实时浏览器复核确认），本次改用关键词检索加人工筛选。国务院12月排期表截至11月24日仍未发布，官网仍为11月表（另有周一21:20排期任务跟进）。USCIS政策手册更新页本轮可读（上轮Akamai拦截已解除），11月20日两条SIJ政策指引已核实收录。上轮文件中的3条CSMS（11月16-17日）已出窗，不再保留。"
 }
